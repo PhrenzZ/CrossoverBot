@@ -1,0 +1,10 @@
+{
+	"Stana" : {"Stars" : "\\*\\*\\*", "Combat": "6", "Negotiation": "6", "Acrobatics": "4", "Bio": "A young warlock whose talents were squandered by her incompetant party."},
+	"Asgard" : {"Stars" : "\\*\\*\\*", "Combat": "5", "Negotiation": "5", "Acrobatics": "6", "Bio": "Asgard aspires to be a mighty viking, but he’s also a pacifist and a huge coward. He hid in a crate for several hours once."},
+	"Klaus" : {"Stars" : "\\*\\*\\*", "Combat": "8", "Negotiation": "0", "Acrobatics": "6", "Bio": "He loves breaking games and finding out exploits. He thinks he's above everyone else, and maybe he is."},
+	"Maela" : {"Stars" : "\\*\\*\\*", "Combat": 4, "Negotiation": 7, "Acrobatics": 4, "Bio": "The avatar of the chaotic evil goddess Beshaba, here to cause havoc and love paladins.", "Traits": ["Seduction", "FillerA", "FillerB"]},
+	"Valtyra" : {"Stars" : "\\*\\*\\*", "Combat": 5, "Negotiation": 8, "Acrobatics": 3, "Bio": "The avatar of the lawful good god Xymor, here to strike down darkness and love succubi.", "Traits": ["Head Over Heels", "FillerA", "FillerB"]},
+	"Hex" : {"Stars" : "\\*\\*\\*", "Combat": 4, "Negotiation": 1, "Acrobatics": 7, "Bio": "Adrenaline junkie vigilante with no regard for his own safety or that of his allies. He's got two revolvers to double his chances of hitting anything.", "Traits": ["Vendetta", "FillerA", "FillerB"]},
+	"Blitz Duster" : {"Stars" : "\\*\\*\\*", "Combat": 7, "Negotiation": 3, "Acrobatics": 4, "Bio": "A rough-and-tumble machineling always ready to throw down or throw a bear.", "Traits": ["Submersible", "FillerA", "FillerB"]},
+	"Shock Trooper" : {"Stars" : "\\*", "Combat": -2, "Negotiation": -2, "Acrobatics": -2, "Bio": "This guy is here for testing purposes, he's so god damn BAD."}
+}

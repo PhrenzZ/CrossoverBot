@@ -1,0 +1,3 @@
+{
+"An Encounter with Delphabel" : {"ComDif": 10, "ComBonus": 20, "NegDif": 8, "NegBonus": 30, "AcrDif": 8, "AcrBonus": 10, "Desc": "Fight your way past a horde of demons!", "Base Success": 60, "Next Stage" : "Into the Nightmare", "Statuses" : ["Demons"]}
+}
